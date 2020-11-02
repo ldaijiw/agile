@@ -38,7 +38,7 @@ Effective product owners:
 **Scrum Development Team**
 - Most effective are tight-knit, co-located, and usually 5 to 7 members. 
 - Team members have differing skill sets, and cross-train each so no one person becomes a bottleneck in the delivery of work. 
-- Strong scrum teams are self-organising and approach their projects with a ckear 'we' attitude. 
+- Strong scrum teams are self-organising and approach their projects with a clear 'we' attitude. 
 - The scrum team drives the plan for each sprint, They forecast how much work they believe they can complete over the iteration.
 
 #### Scrum Artifacts
@@ -166,4 +166,31 @@ It aims to help you visualize your work, maximise efficiency, and improve contin
 - It encourages continuous small incremental and evolutionary changes to the current process
 - Sweeping changes are discouraged because they usually encounter resistancedue to fear or uncertainty
 
-**Respect
+**Respect the Current Process, Roles & Responsibilities**
+- Kanban recognises that existing processes, roles, responsibilites, and titles have value and are worth preserving
+- It does not prohibit change
+- It is designed to promote and encourage incremental, logical changes without triggering fear of change itself
+
+**Encourage Acts of Leadership at All Levels**
+- Leadership comes from everyday acts of people on the front line of their teams
+
+### Practices of Kanban
+
+**Visualize the Workflow**
+- Use a board with cards and columns, each column represents a step in your workflow
+- First and most important thing is understanding what it takes to get an item from a request to a deliverable product
+- Only after understanding how the flow of work currently functions can you aspire to improve it by making the necessary adjustments
+
+**Limit Work in Progress**
+- Ensures a manageable number of active items in progress at any one time
+- If there are no WIP limits, it is not Kanban
+- Switching a team's focus halfway through will generally harm the process, and multitasking is a sure route to generating waste and inefficiency
+
+**Manage Flow**
+- Managing the flow is about managing the work but not the people
+- Flow means the movement of work items through the production process
+- One of the main goals of implementing a Kanban system is to create a smooth, healthy flow
+- Instead of micro-managing people, focus on managing the work processes and understanding how to get that work faster through the system, and therefore creating value more quickly
+
+**Make Process Policies Explicit**
+
